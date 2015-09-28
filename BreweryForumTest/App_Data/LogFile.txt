@@ -1,0 +1,49 @@
+24.09.2015 12:55:31 | MVCForum.Website.dll | Application_Start | START APP
+24.09.2015 12:56:58 | MVCForum.Website.dll | Application_Error | A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+24.09.2015 13:01:04 | MVCForum.Website.dll | Application_Start | START APP
+24.09.2015 13:01:08 | MVCForum.Website.dll | Application_Error | Multiple types were found that match the controller named 'Home'. This can happen if the route that services this request ('{controller}/{action}/{id}') does not specify namespaces to search for a controller that matches the request. If this is the case, register this route by calling an overload of the 'MapRoute' method that takes a 'namespaces' parameter.
+
+The request for 'Home' has found the following matching controllers:
+BreweryForumTest.Controllers.HomeController
+MVCForum.Website.Controllers.HomeController
+24.09.2015 13:02:04 | MVCForum.Website.dll | Application_Start | START APP
+25.09.2015 06:15:28 | MVCForum.Website.dll | Application_Start | START APP
+25.09.2015 06:17:59 | MVCForum.Website.dll | Application_Start | START APP
+25/09/2015 06:25:48 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+25/09/2015 06:37:16 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+25/09/2015 06:38:29 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+25/09/2015 06:39:01 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+25/09/2015 06:39:33 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+25.09.2015 06:46:56 | MVCForum.Website.dll | Application_Start | START APP
+25/09/2015 06:47:05 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+25/09/2015 06:48:14 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+25/09/2015 06:48:56 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+25/09/2015 06:51:40 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+25/09/2015 06:57:15 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+25/09/2015 06:58:02 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+25/09/2015 07:00:41 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+25/09/2015 07:18:17 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+28.09.2015 06:07:26 | MVCForum.Website.dll | Application_Start | START APP
+28.09.2015 06:25:40 | MVCForum.Website.dll | Application_Start | START APP
+28.09.2015 06:26:30 | MVCForum.Website.dll | Application_Start | START APP
+28/09/2015 06:27:10 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+28/09/2015 06:45:21 | MVCForum.Website.dll | Application_Error | A space or line break was encountered after the "@" character.  Only valid identifiers, keywords, comments, "(" and "{" are valid at the start of a code block and they must occur immediately following "@" with no space in between.
+
+28.09.2015 07:18:10 | MVCForum.Website.dll | Application_Start | START APP
+28/09/2015 07:33:31 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+28/09/2015 07:37:20 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+28/09/2015 07:38:05 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+28.09.2015 07:48:13 | MVCForum.Website.dll | Application_Start | START APP
+28/09/2015 07:49:25 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+28/09/2015 07:50:21 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+28.09.2015 07:51:54 | MVCForum.Website.dll | Application_Start | START APP
+28/09/2015 07:52:06 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+28/09/2015 07:52:27 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+28.09.2015 07:54:16 | MVCForum.Website.dll | Application_Start | START APP
+28/09/2015 07:54:20 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+28.09.2015 07:57:58 | MVCForum.Website.dll | Application_Start | START APP
+28.09.2015 08:04:17 | MVCForum.Website.dll | Application_Start | START APP
+28/09/2015 08:04:27 | MVCForum.Services.dll | GetResourceString | This resource key 'Google.Error.EnabledButNotAddedKeys' was not found for the language English (United Kingdom).
+28.09.2015 08:42:19 | MVCForum.Website.dll | Application_Start | START APP
+28.09.2015 13:00:08 | MVCForum.Website.dll | Application_Start | START APP
+28.09.2015 13:02:14 | MVCForum.Website.dll | Application_Start | START APP

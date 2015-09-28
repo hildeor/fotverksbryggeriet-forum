@@ -1,0 +1,320 @@
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\roslyn\csc.exe
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\roslyn\vbc.exe
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\BreweryForumTest.dll.config
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\BreweryForumTest.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\BreweryForumTest.pdb
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\x86\sqlcese40.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\x86\sqlceqp40.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\x86\sqlceme40.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\x86\sqlceer40EN.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\x86\sqlcecompact40.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\x86\sqlceca40.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\amd64\sqlcese40.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\amd64\sqlceqp40.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\amd64\sqlceme40.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\amd64\sqlceer40EN.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\amd64\sqlcecompact40.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\amd64\sqlceca40.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\AjaxMin.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\AntiXssLibrary.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Antlr3.Runtime.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Badge.AuthorMarkAsSolution.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Badge.FavouriteFirstPost.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Badge.Grouch.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Badge.JediMaster.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Badge.MemberForAYear.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Badge.Padawan.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Badge.Photogenic.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Badge.PosterMarkAsSolution.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Badge.PosterVoteUp.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Badge.PostMentionsUmbraco.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Badge.ThousandPoints.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Badge.UserVoteUp.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Badge.YourPostFavourited.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Badge.YourPostFavouritedTenTimes.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Common.Logging.Core.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Common.Logging.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\EcmaScript.NET.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\EFCache.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\EntityFramework.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\EntityFramework.SqlServer.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\EntityFramework.SqlServerCompact.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\HtmlAgilityPack.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\HtmlSanitizationLibrary.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Iesi.Collections.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\ImageProcessor.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\ImageProcessor.Web.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Practices.Unity.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\MVCForum.Data.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\MVCForum.Domain.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\MVCForum.IOC.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\MVCForum.Services.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\MVCForum.Utilities.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\MVCForum.Website.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Newtonsoft.Json.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Owin.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Quartz.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Quartz.Unity.45.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Skybrud.Social.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Skybrud.Social.Microsoft.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\SquishIt.Framework.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\SquishIt.Mvc.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Data.SqlServerCe.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Net.Http.Formatting.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Web.Helpers.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Web.Http.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Web.Http.WebHost.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Web.Mvc.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Web.Optimization.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Web.Razor.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Web.WebPages.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Unity.Mvc4.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\WebGrease.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Yahoo.Yui.Compressor.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\AjaxMin.pdb
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\AntiXssLibrary.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Common.Logging.pdb
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Common.Logging.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Common.Logging.Core.pdb
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Common.Logging.Core.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\EntityFramework.SqlServerCompact.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\HtmlAgilityPack.pdb
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\HtmlAgilityPack.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\HtmlSanitizationLibrary.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Practices.Unity.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Newtonsoft.Json.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Quartz.pdb
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Quartz.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Quartz.Unity.45.pdb
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Skybrud.Social.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\SquishIt.Framework.pdb
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\SquishIt.Framework.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\SquishIt.Mvc.pdb
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Net.Http.Formatting.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Web.Http.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Web.Http.WebHost.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Web.Helpers.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Web.Mvc.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Web.Optimization.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Web.Razor.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Web.WebPages.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Antlr3.Runtime.pdb
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\EntityFramework.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\EntityFramework.SqlServer.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\obj\Debug\BreweryForumTest.dll
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\obj\Debug\BreweryForumTest.pdb
+C:\Users\hilde.reindal\Documents\Visual Studio 2015\Projects\BreweryForumTest\BreweryForumTest\obj\Debug\BreweryForum.csprojResolveAssemblyReference.cache
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\roslyn\csc.exe
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\roslyn\System.Collections.Immutable.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\roslyn\vbc.exe
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\roslyn\VBCSCompiler.exe
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\roslyn\VBCSCompiler.exe.config
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\BreweryForumTest.dll.config
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\BreweryForumTest.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\BreweryForumTest.pdb
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\x86\sqlcese40.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\x86\sqlceqp40.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\x86\sqlceme40.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\x86\sqlceer40EN.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\x86\sqlcecompact40.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\x86\sqlceca40.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\amd64\sqlcese40.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\amd64\sqlceqp40.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\amd64\sqlceme40.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\amd64\sqlceer40EN.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\amd64\sqlcecompact40.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\amd64\sqlceca40.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\AjaxMin.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\AntiXssLibrary.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Antlr3.Runtime.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Badge.AuthorMarkAsSolution.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Badge.FavouriteFirstPost.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Badge.Grouch.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Badge.JediMaster.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Badge.MemberForAYear.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Badge.Padawan.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Badge.Photogenic.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Badge.PosterMarkAsSolution.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Badge.PosterVoteUp.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Badge.PostMentionsUmbraco.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Badge.ThousandPoints.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Badge.UserVoteUp.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Badge.YourPostFavourited.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Badge.YourPostFavouritedTenTimes.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Common.Logging.Core.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Common.Logging.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\EcmaScript.NET.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\EFCache.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\EntityFramework.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\EntityFramework.SqlServer.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\EntityFramework.SqlServerCompact.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\HtmlAgilityPack.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\HtmlSanitizationLibrary.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Iesi.Collections.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\ImageProcessor.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\ImageProcessor.Web.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.Google.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Practices.ServiceLocation.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Practices.Unity.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Web.Infrastructure.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\MVCForum.Data.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\MVCForum.Domain.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\MVCForum.IOC.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\MVCForum.Services.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\MVCForum.Utilities.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\MVCForum.Website.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Newtonsoft.Json.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Owin.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Quartz.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Quartz.Unity.45.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Skybrud.Social.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Skybrud.Social.Microsoft.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\SquishIt.Framework.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\SquishIt.Mvc.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Data.SqlServerCe.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Net.Http.Formatting.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Web.Helpers.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Web.Http.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Web.Http.WebHost.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Web.Mvc.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Web.Optimization.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Web.Razor.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Web.WebPages.Deployment.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Web.WebPages.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Web.WebPages.Razor.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Unity.Mvc4.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\WebGrease.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Yahoo.Yui.Compressor.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\AjaxMin.pdb
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\AntiXssLibrary.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Common.Logging.pdb
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Common.Logging.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Common.Logging.Core.pdb
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Common.Logging.Core.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\EntityFramework.SqlServerCompact.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\HtmlAgilityPack.pdb
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\HtmlAgilityPack.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\HtmlSanitizationLibrary.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Practices.ServiceLocation.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Practices.Unity.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Newtonsoft.Json.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Quartz.pdb
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Quartz.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Quartz.Unity.45.pdb
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Skybrud.Social.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\SquishIt.Framework.pdb
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\SquishIt.Framework.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\SquishIt.Mvc.pdb
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Net.Http.Formatting.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Web.Http.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Web.Http.WebHost.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Web.Helpers.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Web.Mvc.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Web.Optimization.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Web.Razor.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Web.WebPages.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Web.WebPages.Deployment.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\System.Web.WebPages.Razor.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Antlr3.Runtime.pdb
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\EntityFramework.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\EntityFramework.SqlServer.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.Google.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\appl\git\BreweryForumTest\BreweryForumTest\obj\Debug\BreweryForum.csprojResolveAssemblyReference.cache
+C:\appl\git\BreweryForumTest\BreweryForumTest\obj\Debug\BreweryForumTest.dll
+C:\appl\git\BreweryForumTest\BreweryForumTest\obj\Debug\BreweryForumTest.pdb
